@@ -9,7 +9,7 @@ end
 
 def first_element(array)
   array=[1, 2]
- array[0]
+ return array[0]
 end
 
 def first_element(array)
