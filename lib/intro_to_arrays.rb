@@ -1,10 +1,10 @@
 def instantiate_new_arrays
-  my_new_array=[]
-return my_new_array
+ ary = Array.new
 end
 
 def array_with_two_elements
- ary = Array.new
+  array=[1, 2]
+  return array
 end 
 
 def first_element(array)
