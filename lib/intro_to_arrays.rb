@@ -18,3 +18,8 @@ def first_element(array)
   return array[2]
 end
 
+def first_element(array)
+  array[1, 2, 3, 4]
+  return array[-1]
+end
+
