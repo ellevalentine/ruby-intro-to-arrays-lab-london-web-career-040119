@@ -9,7 +9,7 @@ def array_with_two_elements
 end 
 
 def first_element(array)
-  array=[1, 2]
+  
  return array[0]
 end
 
